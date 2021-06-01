@@ -13,7 +13,6 @@
 
 Hi, I'm [Ben Rogers](https://benrogers.uk/), A recent graduate and front end dev. I'm just starting to get into open-source projects and am always looking for colab projects!
 
-<img align="right" alt="GIF" src="https://i.gifer.com/24OD.gif" />
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [E-mail](benjamin020497@gmail.com)
